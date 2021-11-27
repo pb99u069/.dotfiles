@@ -1,0 +1,5 @@
+[http]
+	sslVerify = false
+[user]
+	email = peter.bruehwiler@students.unibe.ch
+	name = Peter Brühwiler
