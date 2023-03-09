@@ -1,0 +1,11 @@
+pane	default	1	0	:-Z	0	pekka	:/home/pekka/cardano-src/cardano-node	1	hx	:bash --rcfile /tmp/nix-shell.LsAM5Y
+pane	default	1	0	:-Z	1	pekka	:/home/pekka/cardano-src/cardano-node	0	bash	:
+pane	default	2	1	:*	0	pekka	:/home/pekka/Documents/GitHub/plutus-pioneer-program/code/week03	1	bash	:bash --rcfile /tmp/nix-shell-71957-0/rc
+pane	default	3	0	:	0	pekka	:/home/pekka/Documents/GitHub/marlowe-cardano	1	hx	:hx
+pane	default	4	0	:	0	pekka	:/home/pekka/mlabs/mlabsNotes	1	hx	:hx
+pane	default	4	0	:	1	pekka	:/home/pekka	0	bash	:
+window	default	1	:cardano-api	0	:-Z	e480,211x54,0,0{105x54,0,0,2,105x54,106,0,3}	off
+window	default	2	:ppp	1	:*	bd65,211x54,0,0,8	off
+window	default	3	:marlowe	0	:	bd62,211x54,0,0,5	off
+window	default	4	:documentation	0	:	4e90,211x54,0,0[211x41,0,0,6,211x12,0,42,10]	off
+state	default	

@@ -1,0 +1,16 @@
+pane	default	0	0	:	0	pekka	:/home/pekka/cardano-src/cardano-node/cardano-cli	1	hx	:hx .
+pane	default	0	0	:	1	pekka	:/home/pekka	0	bash	:
+pane	default	1	0	:	0	pekka	:/home/pekka/cardano-src/cardano-node/cardano-api	1	hx	:bash --rcfile /tmp/nix-shell.eBkDuF
+pane	default	2	0	:	0	pekka	:/home/pekka/Documents/GitHub/plutus-pioneer-program/code/week03/src/Week03	0	hx	:hx Deploy.hs
+pane	default	2	0	:	1	pekka	:/home/pekka	1	bash	:
+pane	default	3	0	:-	0	pekka	:/home/pekka/cardano/hydra-demo/src/HydraRPS	1	hx	:hx .
+pane	default	4	1	:*	0	pekka	:/home/pekka/mlabs/mlabsNotes	1	hx	:hx .
+pane	default	4	1	:*	1	pekka	:/home/pekka/mlabs/mlabsNotes/iog_documentation/examples	0	bash	:
+pane	default	5	0	:	0	pekka	:/home/pekka/Documents/GitHub/cardano-ledger	1	hx	:hx .
+window	default	0	:cardano-cli	0	:	1c8a,211x54,0,0[211x41,0,0,1,211x12,0,42,2]	off
+window	default	1	:cardano-api	0	:	bd60,211x54,0,0,3	off
+window	default	2	:ppp	0	:	1a93,211x54,0,0[211x39,0,0,4,211x14,0,40,8]	off
+window	default	3	:hydra-demo	0	:-	bd62,211x54,0,0,5	off
+window	default	4	:documentation	1	:*	9c96,211x54,0,0[211x41,0,0,6,211x12,0,42,7]	off
+window	default	5	:cardano-leger	0	:	bd66,211x54,0,0,9	off
+state	default	

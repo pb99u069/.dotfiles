@@ -1,0 +1,13 @@
+pane	default	0	0	:	0	pekka	:/home/pekka	1	nix	:nix profile --help
+pane	default	0	0	:	1	pekka	:/home/pekka	0	bash	:
+pane	default	1	0	:-	0	pekka	:/home/pekka/cardano-src/cardano-node/cardano-api	1	hx	:bash --rcfile /tmp/nix-shell.fI7ePQ
+pane	default	3	0	:	0	pekka	:/home/pekka/cardano/hydra-demo/src/HydraRPS	1	bash	:
+pane	default	4	0	:	0	pekka	:/home/pekka/mlabs/pb99u069.github.io/docs/examples	0	bash	:
+pane	default	4	0	:	1	pekka	:/home/pekka/mlabs/pb99u069.github.io	1	bash	:
+pane	default	5	1	:*	0	pekka	:/home/pekka/Documents/GitHub/hydra/hydra-cardano-api	1	hx	:bash --rcfile /tmp/nix-shell.H7J7Bb
+window	default	0	:nix	0	:	6480,211x54,0,0{105x54,0,0,0,105x54,106,0,6}	:
+window	default	1	:cardano-api	0	:-	bd5e,211x54,0,0,1	off
+window	default	3	:hyyhydra-demo	0	:	bd5f,211x54,0,0,2	off
+window	default	4	:documentation	0	:	d58f,211x54,0,0[211x36,0,0,3,211x17,0,37,4]	off
+window	default	5	:cardano-leger	1	:*	bd62,211x54,0,0,5	off
+state	default	
